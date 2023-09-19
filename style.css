@@ -3,4 +3,6 @@
     width: 50%;
     height: 100px;
     background-color: crimson;
+    border-style: solid;
+    inline-size: 5%;
 }
