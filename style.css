@@ -6,3 +6,9 @@
     border-style: solid;
     inline-size: 5%;
 }
+body{
+    background-color:pink;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
